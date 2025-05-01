@@ -1,15 +1,29 @@
-.halaman{
-  background-color: aqua;
-}
-.warana{
-    background-color: gold;
-}
-.texs{
-    text-align: right;
-}
-.hrurf{
+
+.rena{
     text-align: center;
 }
-.MOUSE{
-color: rgb(0, 5, 160); text-align: center; border: 8cm; font-family: 'Courier New', Courier, monospace;
+.warni{
+    line height: 16px;
+    margin bottom: 15px;
+    line height: 1.6;
+    color: #fff;
+}
+.latar{
+   background-color: crimson;
+}
+.kiri{
+    text-align: right;
+}
+.judl{
+    text-align: center;
+    color: #fff;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+.img{
+  display: block;
+  margin: 10px auto;
+  border-radius: 8px;
+  max-width: 90%;
+  height: auto
 }
